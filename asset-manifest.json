@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Johnxyrilb20/ws101-cabana-navbar.git/static/css/main.3e69973a.css",
+    "main.js": "/Johnxyrilb20/ws101-cabana-navbar.git/static/js/main.6850a490.js",
+    "static/media/backgroundphoto.jpg": "/Johnxyrilb20/ws101-cabana-navbar.git/static/media/backgroundphoto.bf0d3dcdaf684d2c3d12.jpg",
+    "index.html": "/Johnxyrilb20/ws101-cabana-navbar.git/index.html",
+    "main.3e69973a.css.map": "/Johnxyrilb20/ws101-cabana-navbar.git/static/css/main.3e69973a.css.map",
+    "main.6850a490.js.map": "/Johnxyrilb20/ws101-cabana-navbar.git/static/js/main.6850a490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e69973a.css",
+    "static/js/main.6850a490.js"
+  ]
+}
