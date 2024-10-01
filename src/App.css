@@ -1,0 +1,38 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: linear-gradient(30deg ,rgb(34, 170, 125),rgb(13, 128, 136));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo {
+    font: 32px;
+    color: #fff;
+    font-weight: 700;
+}
+nav {display: flex;}
+nav a {
+    position: relative;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 40px;
+    padding: 1px 5px;
+    border: 2px solid #fff;
+    border-radius: 10%;
+}
+nav a:hover {
+    background-color: rgb(34, 170, 125);
+    color: rgb(13, 128, 136);
+    border: 2px solid rgb(13, 128, 136);
+    border-radius: 10%;
+    width: 100%;
+}
+nav li {
+    list-style: none;
+}

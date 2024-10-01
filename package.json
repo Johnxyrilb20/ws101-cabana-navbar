@@ -2,7 +2,7 @@
   "name": "my-first-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Johnxyrilb20.github.io/ws101_react_todolist",
+  "homepage": "https://github.com/Johnxyrilb20/ws101-cabana-navbar.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
