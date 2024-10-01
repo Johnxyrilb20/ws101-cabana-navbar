@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ws101-cabana-navbar/static/css/main.8f88bd26.css",
-    "main.js": "/ws101-cabana-navbar/static/js/main.6850a490.js",
+    "main.js": "/ws101-cabana-navbar/static/js/main.b0d7efc9.js",
     "static/media/backgroundphoto.jpg": "/ws101-cabana-navbar/static/media/backgroundphoto.bf0d3dcdaf684d2c3d12.jpg",
     "index.html": "/ws101-cabana-navbar/index.html",
     "main.8f88bd26.css.map": "/ws101-cabana-navbar/static/css/main.8f88bd26.css.map",
-    "main.6850a490.js.map": "/ws101-cabana-navbar/static/js/main.6850a490.js.map"
+    "main.b0d7efc9.js.map": "/ws101-cabana-navbar/static/js/main.b0d7efc9.js.map"
   },
   "entrypoints": [
     "static/css/main.8f88bd26.css",
-    "static/js/main.6850a490.js"
+    "static/js/main.b0d7efc9.js"
   ]
 }
