@@ -1,5 +1,6 @@
 import React from "react"
 import './Navbar.css'
+import { Link } from "react-router-dom"
 export default function Navbar () {
     return (
         <header className="header">
@@ -15,11 +16,7 @@ export default function Navbar () {
 }
 
 function Customlink({href, children,...props}) {
-    const path = window.location.pathname
     return (
-        <li className={path === href ? "active" :""}>
-            <a href={href} {...props}>
-            {children}</a>
-        </li>
+       <Link to={href} >{children}</Link>
     )
 }

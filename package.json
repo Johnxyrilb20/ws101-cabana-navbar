@@ -2,13 +2,14 @@
   "name": "my-first-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Johnxyrilb20/ws101-cabana-navbar.git",
+  "homepage": "https://johnxyrilb20.github.io/ws101-cabana-navbar/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
