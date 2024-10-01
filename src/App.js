@@ -11,20 +11,28 @@ import './App.css';
 import TodoList from './components/todolist/todolist';
 //import todolist from './components/todolist/todolist';
 function App() {
+    let Component
+    switch (window.location.pathname) {
+        case "/":
+            Component = <App />
+            break
+        case "/home":
+            Component = <Home />
+            break
+        case "/about":
+            Component = <About />
+            break
+        case "/contact":
+            Component = <Contact />
+            break
+    }
     return (
-        <div className="App">
-        {/* <Navbar name="John Xyril" lastname="Cabana" />
-        <Hero message="Hello"/>
-        <About />
-        <Contact />
-        <Footer />
-        <HandlingFunction />
-        <HandlingClass />
-        <IfCondition /> */}
-        <TodoList />
-    </div>
-    
-    );
+        <>
+        <Navbar />
+        <div className='container'></div>
+        {Component}
+        </>
+    )
 
 }
 export default App;
